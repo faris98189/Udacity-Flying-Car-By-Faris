@@ -1,0 +1,2 @@
+F:\computer science\udacity\Nano degree of flying car\Fly car multirotor\chapter3 Controls\FCND-Controls-CPP\project\x64\Debug\Simulator.exe
+F:\computer science\udacity\Nano degree of flying car\Fly car multirotor\chapter3 Controls\FCND-Controls-CPP\project\x64\Debug\Simulator.pdb
